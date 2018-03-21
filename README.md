@@ -14,13 +14,16 @@ This is a textbased browser, that supports pages with Color & Styling codes base
 4.  Save the file.
 5.  Make a PR request.
 
+## SubSites 
+They exist but are currently implemented but may change!
+
 *Wait to get denied or accepted*
 
 
 
 # Website Identification and Naming Rules
 - We will not accept websites that don't follow a lowercase, numbers and dash character format.
-- We not accept websites attempting to use the .error or .official suffixes.
+- We not accept websites attempting to use the .official suffixes.
 - You can not put -sub anywhere in your websites name.
 
 
@@ -61,7 +64,7 @@ You can create GitWeb sites that redirect other sites.
   *only compatible with GitWeb address' pastebin not supported*
 
 **Hyperlinks**
-*Not currently supported but will be in the future*
+Hyperlinks automatically work, but giving them color and underlining them is up to you!
 
 # Editing
 We will accept edits to any site on the repo, including .error and .offical sites, if we deem them good edits.
