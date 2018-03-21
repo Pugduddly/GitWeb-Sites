@@ -49,8 +49,7 @@ This is a textbased browser, that supports pages with Color & Styling codes base
  - §n	Underline
  - §o	Italic
  - §r	Reset Styling
- 
-*Styling is removed when going to the next line.*
+
 
 **Comments**
 Lines starting with '#' should be ignored when loading into the browser (this may not work).
