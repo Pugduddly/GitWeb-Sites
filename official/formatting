@@ -1,25 +1,25 @@
 This page displays all the color
 Section mark styling codes in action.
 
-  §00	Black
-  §11	Dark Blue
-  §22	Dark Green
-  §33	Dark Aqua
-  §44	Dark Red
-  §55	Dark Purple
-  §66	Gold
-  §77	Gray
-  §88	Dark Gray
-  §99	Blue
-  §aa	Green
-  §bb	Aqua
-  §cc	Red
-  §dd	Light Purple
-  §ee	Yellow
-  §r§ff	White
-  §r§kk	Obfuscated
-  §r§ll	Bold
-  §r§mm	Strikethrough
-  §r§nn	Underline
-  §r§oo	Italic
-  §rr	Reset	Styling
+  §00	Black$r
+  §11	Dark Blue$r
+  §22	Dark Green$r
+  §33	Dark Aqua$r
+  §44	Dark Red$r
+  §55	Dark Purple$r
+  §66	Gold$r
+  §77	Gray$r
+  §88	Dark Gray$r
+  §99	Blue$r
+  §aa	Green$r
+  §bb	Aqua$r
+  §cc	Red$r
+  §dd	Light Purple$r
+  §ee	Yellow$r
+  §ff	White$r
+  §kk	Obfuscated$r
+  §ll	Bold$r
+  §mm	Strikethrough$r
+  §nn	Underline$r
+  §oo	Italic$r
+  §rr	Reset	Styling$r
