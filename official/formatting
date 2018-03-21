@@ -16,10 +16,10 @@ Section mark styling codes in action.
   §cc	Red
   §dd	Light Purple
   §ee	Yellow
-  §ff	White
-  §kk	Obfuscated
-  §ll	Bold
-  §mm	Strikethrough
-  §nn	Underline
-  §oo	Italic
+  §r§ff	White
+  §r§kk	Obfuscated
+  §r§ll	Bold
+  §r§mm	Strikethrough
+  §r§nn	Underline
+  §r§oo	Italic
   §rr	Reset	Styling
