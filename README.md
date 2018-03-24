@@ -24,7 +24,7 @@ They exist but are currently implemented but may change!
 # Website Identification and Naming Rules
 - We will not accept websites that don't follow a lowercase, numbers and dash character format.
 - We not accept websites attempting to use the .official suffixes.
-- You can not put -sub anywhere in your websites name.
+- You can not put -sub anywhere in your website's name.
 
 
 
