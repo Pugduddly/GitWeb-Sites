@@ -5,6 +5,11 @@ An "Internet" Browser for MrCrayfishs Device Mod (1.12.2), that has community cr
 
 This is a textbased browser, that supports pages with Color & Styling codes based off the built in Minecraft colorcodes.
 
+**New Feature!**
+You can now view GitWeb sites in your web browser! Just go to https://gitweb-js.glitch.me/, type in the site name, and press Enter (or Return if you're on a Mac)!
+
+Note: This website was developed by Pugduddly, not MrCrayfish or MinecraftDoodler.
+
 
 # Website Creation Tutorial
 1.  Fork the repo and create a new file inside your chosen suffix directory (e.g .web).
