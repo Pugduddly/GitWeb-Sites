@@ -1,9 +1,9 @@
 If you are loading this page inside GitWeb app please exit now!
 
 # GitWeb
-An "Internet" Browser for MrCrayfishs Device Mod (1.12.2), that has community created websites
+An "Internet" Browser for MrCrayfish's Device Mod (1.12.2), that has community created websites.
 
-This is a textbased browser, that supports pages with Color & Styling codes based off the built in Minecraft colorcodes.
+This is a text-based browser that supports pages with color & styling codes that are fully compatible with Minecraft.
 
 
 # Website Creation Tutorial
@@ -24,7 +24,7 @@ They exist but are currently implemented but may change!
 # Website Identification and Naming Rules
 - We will not accept websites that don't follow a lowercase, numbers and dash character format.
 - We not accept websites attempting to use the .official suffixes.
-- You can not put -sub anywhere in your websites name.
+- You can not put -sub anywhere in your website's name.
 
 
 
@@ -61,7 +61,7 @@ Lines starting with '#' should be ignored when loading into the browser (this ma
 You can create GitWeb sites that redirect other sites.
 
   - Put 'redirect>address<'(or 'masked_redirect>address<') on the first line of the text file.
-  *only compatible with GitWeb address' pastebin not supported*
+  *only compatible with GitWeb address, pastebin not supported*
 
 **Hyperlinks**
 Hyperlinks automatically work, but giving them color and underlining them is up to you!
