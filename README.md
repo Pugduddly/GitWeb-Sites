@@ -5,6 +5,8 @@ An "Internet" Browser for MrCrayfishs Device Mod (1.12.2), that has community cr
 
 This is a textbased browser, that supports pages with Color & Styling codes based off the built in Minecraft colorcodes.
 
+You can search for sites on GitWeb here: https://gitweb-js.glitch.me/search.html
+
 
 # Website Creation Tutorial
 1.  Fork the repo and create a new file inside your chosen suffix directory (e.g .web).
